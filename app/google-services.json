@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720972770618",
+    "project_id": "chat-online-14b12",
+    "storage_bucket": "chat-online-14b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720972770618:android:298152fc2bf2373e88b403",
+        "android_client_info": {
+          "package_name": "com.mabbar.regester_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720972770618-ffqdhfj78234i3ccapa37nqcsno3tgr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGYqeRt6H59mM1_jttk8htyPRlXsXMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720972770618-ffqdhfj78234i3ccapa37nqcsno3tgr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
